@@ -11,6 +11,16 @@ IBM SkillsBuild: Professional Excellence in Communication & Problem Solving
 
 ### 📊 Final Research Findings
 * **Geographic Bias**: India is significantly under-represented with a **0.09x Bias Factor** (1.66% coverage vs 17.5% population).
+
+* ## 🛠️ Reproducibility
+
+To replicate this research and handle the heavy GDELT datasets locally:
+```bash
+git clone [https://github.com/ZinathBCAResearch078/Google-Internship-Research-Project.git](https://github.com/ZinathBCAResearch078/Google-Internship-Research-Project.git)
+cd Google-Internship-Research-Project
+pip install -r requirements.txt
+python bias_detection.py
+
 * **Role Bias (India)**: Coverage is **72.4% Administrative**, focused on Government and High Court/Judiciary roles.
 * **Role Bias (Iran)**: Coverage is **26.3% Military**, nearly 4x the global average, highlighting a conflict-centric portrayal.
 
