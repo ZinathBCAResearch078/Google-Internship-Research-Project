@@ -43,3 +43,4 @@ plt.tight_layout()
 plt.savefig('global_representation_gap.png')
 plt.show()
 
+![Representation Gap Chart](representation_gap.png)
